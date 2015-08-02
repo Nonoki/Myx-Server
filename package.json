@@ -1,0 +1,17 @@
+{
+  "name": "MyeX-Server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "mongodb": "2.x",
+    "mongoose": "4.x",
+    "cookie-parser": "1.x",
+    "body-parser": "1.x",
+    "cookie-session": "1.x",
+    "js-yaml": "3.x"
+  }
+}

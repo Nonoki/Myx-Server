@@ -1,0 +1,5 @@
+global_public:
+  port: 3000
+  dns: http://127.0.0.1
+  dbHost: localhost
+  dbName: MyX
